@@ -15,14 +15,17 @@ void setup()
 }
 void draw()
 {
-  stroke(int)(Math.random()*256),(int
+  stroke(int)(Math.random()*256),(int)(Math.random()*256), (int)(Math.random()*256);
   while (endX < 300)
+  {
+  
+  }
 }
 void mousePressed()
 {
 startX=0;
 startY=150;
 endX=0;
-endY=150;
+endY=150;)
 }
 
